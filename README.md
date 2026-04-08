@@ -128,7 +128,7 @@ The dashboard enables stakeholders to make **data-driven decisions** through int
 
 ## 📷 Dashboard Preview
 
-
+(images/sales_excel.png)
 
 ---
 
